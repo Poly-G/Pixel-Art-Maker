@@ -38,8 +38,3 @@ function paint (event) {
     trigger.style.background = cellColor.value;
   }
 };
-
-
-for (let i = 0; i < ?; i++) {
-  
-}
